@@ -1,0 +1,52 @@
+.font {
+    font-weight: bold;
+}
+
+.list-group-item.disabled {
+    font-weight: bold;
+    color: #fff;
+}
+
+.list-group-item+.list-group-item {
+    font-weight: bold;
+}
+
+.href-title {
+    color: grey;
+}
+
+.href-title:hover {
+    color: rgb(56, 56, 56);
+    text-decoration: none;
+}
+
+.href-title-article {
+    color: black;
+}
+
+.href-title-article:hover {
+    color: grey;
+    text-decoration: none;
+}
+
+.href {
+    color: #B3B6B7;
+}
+
+.href:hover {
+    color: grey;
+    text-decoration: none;
+}
+
+.page-link {
+    color: grey
+}
+
+.page-link:hover {
+    color: rgb(56, 56, 56)
+}
+
+.btn-dark {
+    font-weight: bold;
+    padding: 13px 125px 13px 20px;
+}
